@@ -1,0 +1,1 @@
+This is Nou's first git project!! Woohoo time to learn!
